@@ -7,7 +7,7 @@ This project is about testing with Javascript. Testing is an important part of t
 ## How to run
 
 1. Download project from [here](https://github.com/maniusia/frontend-nanodegree-feedreader).
-2. Run index.html on localhost - you can find information on how to set up a localhost here.
+2. Run index.html on localhost - you can find information on how to set up a localhost [here](http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python).
 
 ## How to use
 
